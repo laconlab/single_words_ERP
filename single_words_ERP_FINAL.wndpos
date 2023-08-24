@@ -1,0 +1,17 @@
+[Object0]
+Name=pauza
+WindowState=0
+Left=156
+Top=156
+Width=1125
+Height=471
+[Object1]
+Name=TrialList1
+WindowState=0
+Left=0
+Top=0
+Width=733
+Height=278
+[Object2]
+Name=SessionProc
+WindowState=2
